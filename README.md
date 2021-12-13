@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aqibx
+- 👋 Hi, I’m @aqibx, pretty new to the programing world, coming from a creative content background I am looking to sink my feet into the world of development!
 - 👀 I’m interested in HTML/CSS/JavaScript
 - 🌱 I’m currently learning HTML/CSS/JavaScript
 - 💞️ I’m looking to collaborate on ...
